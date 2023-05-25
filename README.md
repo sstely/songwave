@@ -1,2 +1,2 @@
 # songwave
-audio album store (frontend-only)
+audio album store
